@@ -2,7 +2,7 @@ import React from "react";
 import { FlatList, View } from "react-native";
 import { data } from "../data/data.js";
 import ProductItem from "./ProductItem";
-import ProductItem2 from "./ProductItem2.js";
+
 
 const Products = () => {
     return (

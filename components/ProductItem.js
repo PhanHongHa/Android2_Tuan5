@@ -21,7 +21,7 @@ const ProductItem = ({ item }) => {
                     <Text style={{ color: "red" }}>Shop: {item.shop}</Text>
                 </View>
             </View>
-            <View>
+            <View >
                 <Button color="red" title="Chat" />
             </View>
         </View>
